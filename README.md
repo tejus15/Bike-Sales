@@ -51,12 +51,14 @@ Purchased Bike
 
 I used the pre-processed data in Working sheet to create pivot tables. These pivot tables can be seen below
 
-![image](https://github.com/user-attachments/assets/373a1c43-338c-45d7-b4cf-ef1a890200f9)
+![image](https://github.com/user-attachments/assets/14783d10-6dce-4ad3-b856-948485abd2bb)
 
 
-![image](https://github.com/user-attachments/assets/6511cb46-2d0a-4078-91cb-ca9b3f321075)
+![image](https://github.com/user-attachments/assets/7194928c-863e-4f38-b09f-4f67c87681df)
 
-![image](https://github.com/user-attachments/assets/5cfc69f6-6c51-4764-9361-83aac5da4f26)
 
-![image](https://github.com/user-attachments/assets/50b6ca53-a1de-4cfc-9fc1-998ab9e7d482)
+![image](https://github.com/user-attachments/assets/ae83c2e2-c15b-4c07-a7c4-f5969964f8fa)
+
+
+![image](https://github.com/user-attachments/assets/4e170ce2-a312-4347-9896-ccd1fb0bc372)
 
