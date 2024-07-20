@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ca11238-2072-4796-8ce8-46950e983862)# Bike-Sales
+# Bike-Sales
 Created dashboard after cleaning Bike Sales data in excel. 
 
 # Dataset
@@ -51,14 +51,19 @@ Purchased Bike
 
 I used the pre-processed data in Working sheet to create pivot tables. These pivot tables can be seen below
 
-![image](https://github.com/user-attachments/assets/14783d10-6dce-4ad3-b856-948485abd2bb)
+This pivot table displays the average income of potential customers based on gender.
+
+![image](https://github.com/user-attachments/assets/ad7dc82a-a301-422c-ad65-d6b266a9f476)
 
 
-![image](https://github.com/user-attachments/assets/7194928c-863e-4f38-b09f-4f67c87681df)
+
+This pivot table gives the commute distance of various customers.
+
+![image](https://github.com/user-attachments/assets/a89d72bd-f6ad-422b-b89d-4c70fed22e5d)
 
 
-![image](https://github.com/user-attachments/assets/ae83c2e2-c15b-4c07-a7c4-f5969964f8fa)
 
+This pivot table gives the number of customers of various age brackets. 
 
-![image](https://github.com/user-attachments/assets/4e170ce2-a312-4347-9896-ccd1fb0bc372)
+![image](https://github.com/user-attachments/assets/80debfea-857f-4030-8d98-27d88633b749)
 
