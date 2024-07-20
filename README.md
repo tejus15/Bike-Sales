@@ -69,13 +69,19 @@ This pivot table gives the number of customers of various age brackets.
 
 
 # Visualizations
+By looking at the following visualizations, we can reach few interesting conclusions:
+
+Firstly, in both classes of customers: The customers who purchase  a bike or those who dont, the average income of males exceed the average income of females. 
 
 ![image](https://github.com/user-attachments/assets/52bd2c4e-e788-4577-9555-d4a63bbc88b5)
 
 
+In the following visualization, we see that as the commute distance increases the proportion of customers who want to purchase a bike reduces. This makes sense as people who have to commute longer distances would prefer to buy a car over a bike. 
+
 ![image](https://github.com/user-attachments/assets/7e94c2da-4cbf-4173-ae85-a9c6b1b1e46b)
 
 
+This visualization tells us that the majority of the customers who want to buy a bike belong to the middle aged age bracket.  
 ![image](https://github.com/user-attachments/assets/eda45916-b380-4b68-9fe2-2dc6e745da1a)
 
 
