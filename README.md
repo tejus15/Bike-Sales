@@ -81,7 +81,7 @@ In the following visualization, we see that as the commute distance increases th
 ![image](https://github.com/user-attachments/assets/7e94c2da-4cbf-4173-ae85-a9c6b1b1e46b)
 
 
-This visualization tells us that the majority of the customers who want to buy a bike belong to the middle aged age bracket.  
+This visualization tells us that the majority of the customers who arebuying a bike belong to the middle aged age bracket.  
 ![image](https://github.com/user-attachments/assets/eda45916-b380-4b68-9fe2-2dc6e745da1a)
 
 
