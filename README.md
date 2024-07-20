@@ -67,3 +67,16 @@ This pivot table gives the number of customers of various age brackets.
 
 ![image](https://github.com/user-attachments/assets/80debfea-857f-4030-8d98-27d88633b749)
 
+
+# Visualizations
+
+![image](https://github.com/user-attachments/assets/52bd2c4e-e788-4577-9555-d4a63bbc88b5)
+
+
+![image](https://github.com/user-attachments/assets/7e94c2da-4cbf-4173-ae85-a9c6b1b1e46b)
+
+
+![image](https://github.com/user-attachments/assets/eda45916-b380-4b68-9fe2-2dc6e745da1a)
+
+
+
